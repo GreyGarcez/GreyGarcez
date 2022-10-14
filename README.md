@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GreyGarcez
-- 👀 I’m interested in .Net, Xamarin and SQL
+- 👀 I’m interested in .Net, Xamarin, Blazor and SQL
 - 🌱 I’m currently learning Xamarin Forms.
 
 <!---
