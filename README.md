@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreyGarcez
-- 👀 I’m interested in .Net, MAUI, Blazor and SQL
-- 🌱 I’m currently learning MAUI.
+- 👀 I’m interested in .Net, MAUI, Blazor, Rust and SQL
+- 🌱 I’m currently working with Blazor and learning Rust.
 
 <!---
 GreyGarcez/GreyGarcez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
